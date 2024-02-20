@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Styling Choices
+
+For my style choices i used a grid layout with a simple header above. 
+
+each container is evenly spaced and contains the title, ingredients, and image of each recipe.
+
+images are resized to fit each container 
+
+every new container added has an auto-fill repeating function to use the minimum available space needed to make a new container
+
